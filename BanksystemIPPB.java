@@ -32,6 +32,7 @@ public class BanksystemIPPB {
     System.out.println("|Press 4 for checking Balance of account                    |");
     System.out.println("|Press 5 for adding Balance in account                      |");
     System.out.println("|Press 6 for withdrawal money from account                  |");
+    System.out.println("|Press 7 Exit                                               |");
     System.out.println("|===========================================================|");
     }
     public void acc_creation(){
